@@ -1,10 +1,10 @@
 # pymambo
 
-Add a short description here!
+Python functions for TMS/EEG analysis
 
 ## Description
 
-A longer description of your project goes here...
+This package is built for TMS/EEG analysis in python, inspired by EEGLAB TESA package.
 
 ## Installation
 
